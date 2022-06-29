@@ -1,0 +1,57 @@
+{
+    "date": "2019-02-20",
+    "customer": {
+        "zip": "123-456",
+        "address1": "東京都調布市松濤2000",
+        "address2": "パレットハウス徳丸 199",
+        "name": "水谷 太郎",
+        "email": "test@housei-inc.com",
+        "note2": "test"
+    },
+    "shop" : {
+        "name": "Sample Shop Web通販事業部",
+        "zip": "123-5678",
+        "address": "東京都板橋区東坂下2-3-2",
+        "staffName": "山口"
+    },
+    "notes": "",
+    "tax": 4152,
+    "sum": 56052,
+    "qrCode": "fsa89gb43wkfdakdsaf8v9ergbhjkfrtdlsgyre89sgf43qgfdr",
+    "barCode": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV4AAABsCAYAAAAi7toIAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAALuSURBVHhe7dTBTeNAGIbhkALCPfQBBQD3lMAdKCCFwJ0UAH2QApJ7yJkSvDuWx7KSQYv28J2eR7JijSeTX470zrpfms1m/bVarYaVtuvr637f1dXVsNJ1Ly8v4/cvLi7G+3odj8d+3+fnZ/N5Xfv4+Oj3FXXtN/P8dOb9/f2wq+seHx/Pntf7y8vLYVfXvb29jc9P5ynX/7yflqenp7M56n1rnnL96/08PDyMe7+/v4fVc6+vr+O+6e/X6+vra9h5bvp+Tr9X1vb7fb9vt9uN6+v1ul8rbm5u+rXlcjmstE3fT51nu92OZ9ZrOsf7+3u/r6XMU/e25pmeVT/v7u6GXW23t7f93sViMax03WazGb8/nWc+n5/9Tr2fztNSzi/7yu9Vz8/P4xmHw2FYPVfmOf3NepW11v81fV7vyzlVmaesTedpKc/LvtP3U89szVTm+El5n/U7rXnKdXpmeU9V6/9qKf/H9JzpffkfqzJPfT6dp5j/fQBAkPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0CY8AKECS9AmPAChAkvQJjwAoQJL0DUbPYHW5NyhpASEJMAAAAASUVORK5CYII=",
+    "orders": [
+        {
+            "name": "AWE Sシリーズ CO減圧レギュレータ",
+            "code": "2KN25-W",
+            "count": 1,
+            "unitPrice": 32400,
+            "totalPrice": 32400,
+            "notes": ""
+        },
+        {
+            "name": " NWSCO R134a ボールゲージ式マニホールドキット",
+            "code": "AR44-FU",
+            "count": 1,
+            "unitPrice": 28908,
+            "totalPrice": 28908,
+            "notes": ""
+        },
+        {
+            "name": " カネダ Oリング 油圧用 (ISO型)",
+            "code": "NBR S10 7.8 Φ20",
+            "count": 2,
+            "unitPrice": 300,
+            "totalPrice": 600,
+            "notes": ""
+        },
+        {
+            "name": "  以上",
+            "code": "",
+            "count": "",
+            "unitPrice": "",
+            "totalPrice": "",
+            "notes": ""
+
+        }
+    ]
+}
