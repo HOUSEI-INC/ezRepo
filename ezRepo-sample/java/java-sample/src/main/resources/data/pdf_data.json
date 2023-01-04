@@ -1,25 +1,14 @@
 ﻿{
-"applicationID":"202208020003",
-"manager":"Housei太郎",
-"propertyName":"テスト8/2(火曜)003",
-"advertiser":"山口　樹",
-"advertiserTEL":"0343466600",
-"industryNumber":" 建築・内装(1段行物)",
-"industryName":"建築・内装(1段行物)",
-"occupationNumber":"1390 1390 建築",
-"occupationName":"1390 建築",
-"adAgencyName":"㈱スポニチパートナー",
-"adAgencyNumber":"10342126596 ㈱スポ",
-"mediaName":"スポニチ",
-"productName":"大阪・スポニチ案内",
-"layout":"1段行物(大阪・スポニチ案内)",
-"applicationSize":"4行",
-"ApplicationSubmissionDate":null,
-"applicationDateDay":"",
-"postHeadOffice":"大阪本社",
-"publicateNumber":"3回",
-"publicateDate":"2022/09/06・13・20",
-"image":"https://ezrepo.houseitech.com/console/static/img/logo.4c90e3b0.svg",
-"ouputDateOclock":"2022-09-14 17:05:29"
+  "customer": {
+    "zip": "〒060-8711",
+    "address1": "札幌市中央区大通西８丁目６",
+    "name": "御中"
+  },
+  "noone":"2010000313",
+  "no":"T343000102208",
+  "sum":"302,500円",
+  "beforetax" : "275000",
+  "tax" : "27500",
+  "total" : "302500",
+  "ankenName":"(株)テストサービスセンター"
 }
-
