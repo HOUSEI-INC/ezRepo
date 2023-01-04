@@ -30,10 +30,10 @@ public class EzRepoApiUtil {
 			InputStream inputJsonStream = new FileInputStream(jsonFile)){
 			LinkedMultiValueMap<String,Object>  requestParams = new LinkedMultiValueMap<>();
 			MyInputStreamResource templateStreamResource = new MyInputStreamResource(inputTemplateStream, templateFile.length(), templateFile.getName());
-			requestParams.add("template", templateStreamResource);
+			requestParams.add("templateFile", templateStreamResource);
 
 			MyInputStreamResource jsonStreamResource = new MyInputStreamResource(inputJsonStream, jsonFile.length(), jsonFile.getName());
-			requestParams.add("entity", jsonStreamResource);
+			requestParams.add("dataSourceFile", jsonStreamResource);
 
 			HttpEntity<MultiValueMap<String, Object>> requestEntity = new HttpEntity<>(requestParams, headers);
 
