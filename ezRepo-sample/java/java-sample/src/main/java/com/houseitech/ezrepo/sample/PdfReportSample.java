@@ -8,7 +8,7 @@ public class PdfReportSample {
     public static void main(String[] args) {
         try {
             String apiUrl = "https://ezrepo.jp/api/v2/pdf/render/instant";
-            //下記ezRepoのAPIを利⽤するためには認証を⾏う必要があります。https://ezrepo.houseitech.com　へユーザー登録してTokenを取得してください。
+            //下記ezRepoのAPIを利⽤するためには認証を⾏う必要があります。https://ezrepo.jp　へユーザー登録してTokenを取得してください。
             //ご不明な点がありましたら、Eメール：ezrepo@houseitech.comまでご連絡ください。
             String token = "";
             String templateFilePath = PdfReportSample.class.getResource("/templates/pdf_template.zip").getPath();
