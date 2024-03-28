@@ -28,11 +28,12 @@
 ## 事例
 
 ##### 大手IT社に向けて基幹システムのExcelグラフ帳票を導入し、複雑なExcel帳票を実現しました。開発効率が向上してコストが減ることでした。
-![image](https://github.com/HOUSEI-INC/ezRepo/assets/87158705/0e9ba3ea-4457-4997-afef-50e2310f5936)
+![image](https://github.com/HOUSEI-INC/ezRepo/assets/87158705/f6dbec93-4929-41fd-b24c-bbb6d7f5a9cc)
+
 
 
 
 
 
 ## その他
-[公式サイト](https://ezrepo.houseitech.com)
+[公式サイト](https://ezrepo.jp)
