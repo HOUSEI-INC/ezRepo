@@ -7,8 +7,8 @@ import java.io.File;
 public class ExcelReportSample {
     public static void main(String[] args) {
         try {
-            String apiUrl = "https://ezrepo.houseitech.com/api/v2/excel/render/instant";
-            //下記ezRepoのAPIを利⽤するためには認証を⾏う必要があります。https://ezrepo.houseitech.com　へユーザー登録してTokenを取得してください。
+            String apiUrl = "https://ezrepo.jp/api/v2/excel/render/instant";
+            //下記ezRepoのAPIを利⽤するためには認証を⾏う必要があります。https://ezrepo.jp　へユーザー登録してTokenを取得してください。
             //ご不明な点がありましたら、Eメール：ezrepo@houseitech.comまでご連絡ください。
             String token = "";
             String templateFilePath = ExcelReportSample.class.getResource("/templates/excel_template.xlsx").getPath();
